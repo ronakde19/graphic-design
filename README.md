@@ -6,3 +6,5 @@
 # Day 01 ( 19/01/2026 )
 
 - I Made a Carousel post for LinkedIn
+
+# Day 02
